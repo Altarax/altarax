@@ -16,6 +16,20 @@ Hi ! I'm Jayson or Altarax and I'm working on some projects. Essentially for me 
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/Altarax/Stock_analysis">Stock Analysis</a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"/>
+            <img src="https://img.shields.io/badge/Made%20with-Javascript-F0DB4F"/>
+            <img src="https://img.shields.io/badge/Made%20with-HTML-264de4"/>
+            <img src="https://img.shields.io/badge/Made%20with-CSS-E31B59"/>
+        </td>
+        <td>
+            My most important project. A website that parses and visualize fundamentals data of companies.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Altarax/Discord_Trello_Bot">Trello Bot</a>
         </td>
         <td>
