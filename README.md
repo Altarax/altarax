@@ -23,9 +23,10 @@ Hi ! I'm Jayson or Altarax and I'm working on some projects. Essentially for me 
             <img src="https://img.shields.io/badge/Made%20with-Javascript-F0DB4F"/>
             <img src="https://img.shields.io/badge/Made%20with-HTML-264de4"/>
             <img src="https://img.shields.io/badge/Made%20with-CSS-E31B59"/>
+            <img src="https://img.shields.io/badge/website-down-800000"/>
         </td>
         <td>
-            My most important project. A website that parses and visualize fundamentals data of companies.
+            My most important project. A website that parses and visualizes companies fundamentals data.
         </td>
     </tr>
     <tr>
