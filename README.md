@@ -3,7 +3,7 @@ Hi ! I'm Jayson or Altarax. I'm essentially working on some projects for myself 
 ## 📣 Let's connect !
 <p>
   <a href="https://www.linkedin.com/in/jaysondangremont/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrdPxWon%2FRoasau67qSwqfA%3D%3D"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dangremontjayson.pro@gmail.com><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:dangremontjayson.pro@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 </p>
 
 ## 📋 My stats !
