@@ -8,11 +8,12 @@ Hi ! I'm Jayson or Altarax. I'm essentially working on some projects for myself 
   <a href="mailto:dangremontjayson.pro@gmail.com><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 </p>
 
+## 📋 My stats !
 [![My stats](https://github-readme-stats.vercel.app/api?username=altarax&count_private=true&show_icons=true&theme=cobalt)](https://github.com/altarax/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altarax&layout=compact&theme=cobalt)](https://github.com/altarax/github-readme-stats)
 
-## Main Projects
+## 🚧 My main projects
 
 <table>
     <tr>
