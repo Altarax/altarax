@@ -1,6 +1,6 @@
 # @altarax
 
-Hi ! I'm Jayson or Altarax and I'm working on some projects. Essentially for me but maybe one day it will be useful to find my dream job.
+Hi ! I'm Jayson or Altarax. I'm essentially working on some projects for myself but maybe one day it will be useful to find my dream job.
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=altarax&count_private=true&show_icons=true&theme=cobalt)](https://github.com/altarax/github-readme-stats)
 
