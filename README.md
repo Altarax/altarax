@@ -1,5 +1,3 @@
-# @altarax
-
 Hi ! I'm Jayson or Altarax. I'm essentially working on some projects for myself but maybe one day it will be useful to find my dream job.
 
 ## 📣 Let's connect !
