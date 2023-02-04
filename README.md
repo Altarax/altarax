@@ -25,6 +25,21 @@
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/Altarax/CubeSat">CubeSat</a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Made%20with-VHDL-green"/>
+            <img src="https://img.shields.io/badge/Made%20with-Tang%20Nano-red"/>
+            <img src="https://img.shields.io/badge/Made%20with-Cylone--II-blue"/>
+            <img src="https://img.shields.io/badge/Made%20with-Quartus-%230071C5"/>
+        </td>
+        <td>
+            My most important project. A complet CubeSat with on-ground base to learn VHDL (for possible futur students).  
+            There are a lot of periphericals and I'm doing the PCB and the code alone.
+        </td>
+  </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Altarax/Stock_analysis">Stock Analysis</a>
         </td>
         <td>
@@ -35,7 +50,7 @@
             <img src="https://img.shields.io/badge/website-down-800000"/>
         </td>
         <td>
-            My most important project. A website that parses and visualizes companies fundamentals data.
+            A website that parses and visualizes companies fundamentals data.
         </td>
     </tr>
     <tr>
