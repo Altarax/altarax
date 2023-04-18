@@ -34,8 +34,8 @@
             <img src="https://img.shields.io/badge/Made%20with-Quartus-%230071C5"/>
         </td>
         <td>
-            My most important project. A complet CubeSat with on-ground base to learn VHDL (for possible futur students).  
-            There are a lot of periphericals and I'm doing the PCB and the code alone.
+            My most important project. A complet CubeSat with on-ground base to teach VHDL (for possible futur students).  
+            There are a lot of periphericals and I'm doing the PCB and the code on my own.
         </td>
   </tr>
     <tr>
