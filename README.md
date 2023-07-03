@@ -1,7 +1,7 @@
 ## 🤙 Me !
 ![Intro](https://github.com/Altarax/altarax/blob/main/intro.PNG)
 <p>Hi and welcome ! </p>
-<p>I'm Jayson or Altarax. I'm essentially working on some projects for myself but maybe one day it will be useful to find my dream job.</p>
+<p>I'm Jayson. I'm essentially working on some projects for myself but maybe one day it will be useful to find my dream job.</p>
 
 ## 📣 Let's connect !
 <p align=center>
