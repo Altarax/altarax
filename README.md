@@ -11,9 +11,9 @@
 </p>
 
 ## 📋 My stats !
-[![My stats](https://github-readme-stats.vercel.app/api?username=altarax&count_private=true&show_icons=true&theme=cobalt)](https://github.com/altarax/github-readme-stats)
+[![My stats](https://github-readme-stats-sigma-five.vercel.app/api?username=altarax&count_private=true&show_icons=true&theme=cobalt)](https://github.com/altarax/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altarax&layout=compact&theme=cobalt)](https://github.com/altarax/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=altarax&layout=compact&theme=cobalt)](https://github.com/altarax/github-readme-stats)
 
 ## 🚧 My main projects
 
